@@ -2,6 +2,9 @@
 
 Dashboard interactivo en Streamlit para explorar datos de anuncios de vehículos y visualizar patrones con Plotly.
 
+## Link de la aplicación web
+https://proyecto-s7-7pnk.onrender.com
+
 ### Descripción del proyecto:
 Este proyecto forma parte del Sprint 7 y tiene como objetivo aplicar herramientas de desarrollo de software mediante la creación de una aplicación web interactiva desarrollada con Streamlit.
 
